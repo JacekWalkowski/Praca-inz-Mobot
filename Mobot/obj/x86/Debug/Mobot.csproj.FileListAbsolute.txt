@@ -1,0 +1,9 @@
+C:\Users\Bagieta\documents\visual studio 2010\Projects\Mobot\Mobot\bin\Debug\Mobot.exe
+C:\Users\Bagieta\documents\visual studio 2010\Projects\Mobot\Mobot\bin\Debug\Mobot.pdb
+C:\Users\Bagieta\documents\visual studio 2010\Projects\Mobot\Mobot\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Bagieta\documents\visual studio 2010\Projects\Mobot\Mobot\obj\x86\Debug\Mobot.Form1.resources
+C:\Users\Bagieta\documents\visual studio 2010\Projects\Mobot\Mobot\obj\x86\Debug\Mobot.Properties.Resources.resources
+C:\Users\Bagieta\documents\visual studio 2010\Projects\Mobot\Mobot\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Bagieta\documents\visual studio 2010\Projects\Mobot\Mobot\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Bagieta\documents\visual studio 2010\Projects\Mobot\Mobot\obj\x86\Debug\Mobot.exe
+C:\Users\Bagieta\documents\visual studio 2010\Projects\Mobot\Mobot\obj\x86\Debug\Mobot.pdb
